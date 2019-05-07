@@ -90,9 +90,8 @@ public class frmPrincipal extends javax.swing.JFrame {
             }
         });
 
-        btnTrapecio.setBackground(new java.awt.Color(102, 204, 255));
+        btnTrapecio.setBackground(new java.awt.Color(255, 255, 255));
         btnTrapecio.setFont(new java.awt.Font("Book Antiqua", 1, 14)); // NOI18N
-        btnTrapecio.setForeground(new java.awt.Color(255, 255, 255));
         btnTrapecio.setText("Trapecio");
         btnTrapecio.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -111,9 +110,8 @@ public class frmPrincipal extends javax.swing.JFrame {
         jLabel4.setForeground(new java.awt.Color(204, 255, 204));
         jLabel4.setText("Resultado");
 
-        btnSimpson.setBackground(new java.awt.Color(102, 204, 255));
+        btnSimpson.setBackground(new java.awt.Color(255, 255, 255));
         btnSimpson.setFont(new java.awt.Font("Book Antiqua", 1, 14)); // NOI18N
-        btnSimpson.setForeground(new java.awt.Color(255, 255, 255));
         btnSimpson.setText("Simpson");
         btnSimpson.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
