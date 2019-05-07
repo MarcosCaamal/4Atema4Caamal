@@ -19,6 +19,7 @@ public class Tema4 {
         
         frmPrincipal principal = new frmPrincipal();
         principal.setVisible(true);
+        principal.setLocationRelativeTo(null);
         
         
     }
